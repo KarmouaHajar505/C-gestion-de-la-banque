@@ -1,0 +1,3 @@
+C:\Users\Hajar\source\repos\pp\pp\obj\Debug\netcoreapp3.0\Projet_Banque.csprojAssemblyReference.cache
+C:\Users\Hajar\source\repos\pp\pp\obj\Debug\netcoreapp3.0\Projet_Banque.AssemblyInfoInputs.cache
+C:\Users\Hajar\source\repos\pp\pp\obj\Debug\netcoreapp3.0\Projet_Banque.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Hajar\source\repos\pp\pp\obj\Debug\netcoreapp3.0\pp.csprojAssemblyReference.cache
+C:\Users\Hajar\source\repos\pp\pp\obj\Debug\netcoreapp3.0\pp.AssemblyInfoInputs.cache
+C:\Users\Hajar\source\repos\pp\pp\obj\Debug\netcoreapp3.0\pp.AssemblyInfo.cs
+C:\Users\Hajar\source\repos\pp\pp\bin\Debug\netcoreapp3.0\pp.exe
+C:\Users\Hajar\source\repos\pp\pp\bin\Debug\netcoreapp3.0\pp.deps.json
+C:\Users\Hajar\source\repos\pp\pp\bin\Debug\netcoreapp3.0\pp.runtimeconfig.json
+C:\Users\Hajar\source\repos\pp\pp\bin\Debug\netcoreapp3.0\pp.runtimeconfig.dev.json
+C:\Users\Hajar\source\repos\pp\pp\bin\Debug\netcoreapp3.0\pp.dll
+C:\Users\Hajar\source\repos\pp\pp\bin\Debug\netcoreapp3.0\pp.pdb
+C:\Users\Hajar\source\repos\pp\pp\obj\Debug\netcoreapp3.0\pp.dll
+C:\Users\Hajar\source\repos\pp\pp\obj\Debug\netcoreapp3.0\pp.pdb
